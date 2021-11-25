@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(243, 243, 243);
+    font-family: serif;
+    font-size: 14pt;
+}
+
+h1 {
+    text-align: center;
+}
+
+span {
+    font-weight: bold;
+}
+
+
+img {
+    width: 50%;
+    height: auto;
+    float: right;
+    margin-top: auto;
+}
+
+#mainContent p{
+    line-height:35px;
+    text-indent:50px;
+    text-align: justify;
+}
+
+#mainContent {
+    margin-top: 50px;
+}
+
+table{
+    width: 80%;
+    border-style: solid;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+th, td{
+    border: 1px solid;
+}
+
+#header p{
+    margin-top: 29px;
+}
+
+#page {
+    box-sizing: border-box;
+    width: 23cm;
+    height: auto;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(198,198,198);
+    margin: auto;
+    padding-left: 2.5cm;
+    padding-right: 2.5cm;
+}
